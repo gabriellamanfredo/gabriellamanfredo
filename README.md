@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-Hello! My name is Gabriella, and I'm a a full-stack web developer.
+Hello! My name is Gabriella, and I'm a full-stack web developer.
 
 ## Contact
 - Email: gabriella.manfredo@gmail.com
