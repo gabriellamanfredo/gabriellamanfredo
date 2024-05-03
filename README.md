@@ -8,7 +8,8 @@ Hello! My name is Gabriella, and I'm a a full-stack web developer.
 - LinkedIn: https://www.linkedin.com/in/gabriellamanfredo/
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellamanfredo&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellamanfredo&layout=compact)
+
 
 ## Acknowledgements
 Thank you for visiting my profile! Feel free to explore my projects and get in touch with me for any collaboration or opportunity.
